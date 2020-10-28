@@ -1,4 +1,4 @@
-# Diccionario
+# Diccionario FPV
 
 En esta sección les explico que significa uno que otro término y acrónimo utilizado en drones.  
 La organice por tema en vez de abecedario para que sea mas fácil de leer para alguien nuevo.  
@@ -321,4 +321,13 @@ FrSky: Es el protocolo utilizado por FrSky o Taranis. Es de los mas confiables y
 2.4Ghz: Es la frecuencia a la que operan normalmente los mandos y receptores.
 
 900Mhz: Es la frecuencia a la cual operan los mandos y receptores de larga distancia.
+
+#### Fuentes de información 
+
+[QuadMx Drones] http://www.quadmx.com/diccionario/   
+
+[Airbender_FPV] https://www.instagram.com/airbender_fpv/
+
+
+
 
